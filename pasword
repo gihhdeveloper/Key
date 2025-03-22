@@ -1,4 +1,4 @@
-const pwnya = 'https://raw.githubusercontent.com/ditss-dev/asumamd/main/database';
+const pwnya = 'https://raw.githubusercontent.com/gihhdeveloper/Key/refs/heads/main/database';
 const pwinput = (query) => {
     return new Promise(resolve => rl.question(query, resolve));
 };
